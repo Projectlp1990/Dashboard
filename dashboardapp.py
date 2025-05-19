@@ -12,7 +12,7 @@ st.set_page_config(page_title="Training Dashboard Uploader", layout="centered")
 st.title("📊 Training Dashboard Uploader")
 
 # --- GitHub Config ---
-GITHUB_REPO = "splatter85/Training-Dashboard"
+GITHUB_REPO = "Projectlp1990/Dashboard"
 GITHUB_BRANCH = "main"
 DASHBOARD_FILE_PATH = "Training_Dashboard.csv"
 
